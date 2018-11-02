@@ -1,5 +1,5 @@
 # Crank_Nicolson_Explicit
-Heat Equation: Crank-Nicolson / Explicit Methods, designed to estimate the solution to a 1D heat equation problem.
+Heat Equation: Crank-Nicolson / Explicit Methods, designed to estimate the solution to a 1D heat equation problem.  Coding: Python (Anaconda / Spyder) via NumPy, plotting: matplotlib.
 
 # Graphic Results
 ![Together_Crank_Explicit](https://github.com/mathemacode/Crank_Nicolson_Explicit/blob/master/DualEst.png?raw=true)
