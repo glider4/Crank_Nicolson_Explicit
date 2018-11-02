@@ -5,8 +5,8 @@ Created on Wed Oct 31 18:17:37 2018
 @author: mathemacode
 
 Plots both the explicit and Crank-Nicolson
-Methods for Parabolic problems, pseudocodes taken 
-from book.  3D exact solution plot is also included.
+Methods for Parabolic problems.  3D exact 
+solution plot is also included.
 
 Use a=1 for plots on same graphic, a=2 for dual plots
 lined up side-by-side for analysis.  Also, I made a function
