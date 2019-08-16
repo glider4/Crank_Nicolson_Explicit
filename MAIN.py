@@ -61,25 +61,3 @@ def methods_plot(a):
         plt.show()
 
 main()
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-            

@@ -19,3 +19,4 @@ def TRI(n, a, d, c, b, y):
     
     for i in  range(n-2,0,-1):
         y[i] = ( (b[i] - ((c[i])*y[i+1])) ) / d[i]
+        
